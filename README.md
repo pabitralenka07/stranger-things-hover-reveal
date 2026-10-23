@@ -54,7 +54,7 @@ The reveal effect combines **JavaScript physics interpolation** with **CSS Maski
 ## 📁 Project Structure
 
 ```text
-Image Hover Transition/
+stranger-things-hover-reveal/
 ├── public/
 │   └── images/
 │       ├── will1.webp        # Hawkins night background (base state)
@@ -150,4 +150,4 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 <div align="center">
   <sub>Made with ❤️ and inspired by Netflix's Stranger Things. Enter the Upside Down if you dare.</sub>
 </div>
-# stranger-things-hover-reveal
+
